@@ -1,4 +1,2 @@
 # js-part
-routine coding ;
-
-demos
+practice
